@@ -1,2 +1,4 @@
 class Hello{
-public st
+public static void main(){
+Stln("Hello")
+}
